@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejercicio_individual_9</string>
+    <string name="title_app">Ejercicio 9</string>
+    <string name="desc_img1">imagen  kite-surfista </string>
+    <string name="desc_img2">imagen de sol </string>
+    <string name="desc_img3">imagen de sombrilla</string>
+    <string name="desc_img4">imagen surfista</string>
+    <string name="btn_finish">Cerrar App</string>
+    <string name="btn_main2">Volver</string>
+    <string name="img_escogida">imagen escogida</string>
+    <string name="sub_title_app">Escoge tu imagen</string>
+
+
+</resources>
